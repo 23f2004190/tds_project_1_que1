@@ -1,0 +1,6 @@
+{
+  "prompt": "Cinematic underwater photo. A massive school of glowing fish forms a giant shape plunging sharply downward into a dark trench. Crucially, look closely: every single individual fish in the school is angled upward, swimming straight up toward the light. The global downward shape directly contradicts the individual upward movement. Uncanny, no text, no charts, moody.",
+  "model": "Bing Image Creator",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "The global shape of the fish school plunges sharply downward into the dark, yet every individual fish within it points and swims upward toward the light. The local trend completely reverses the global trend."
+}
