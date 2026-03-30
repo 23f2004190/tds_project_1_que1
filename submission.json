@@ -1,7 +1,6 @@
 {
-  "prompt": "A sprawling, intricate underwater landscape that resembles a crumbling, bone-white ruined city made of calcium and ash. The scene is overwhelmingly monochrome and skeletal, stretching into the murky distance. In the very bottom corner, a single, tiny, fiercely glowing neon-pink coral structure stands out against the vast dead expanse. Cinematic lighting, macro photography style, deep ocean shadows, melancholic and haunting atmosphere, no text, no charts.",
+  "prompt": "Photorealistic photo of a grassy park. A chaotic, zig-zagging paved pathway swerves wildly to touch every single scattered autumn leaf, making it completely unusable for walking. Next to it, a simple, straight dirt trail naturally crosses the park. Realistic physical scene, no text, no diagrams, no glowing lights.",
   "model": "Bing Image Creator",
-  "dataset_name": "NOAA Coral Reef Watch",
-  "dataset_url": "https://coralreefwatch.noaa.gov/",
-  "insight": "Massive ocean heatwaves are turning the vibrant architecture of our coral reefs into vast, silent boneyards."
+  "concept": "Overfitting",
+  "metaphor": "A chaotic path overcomplicates its route to perfectly hit every random fallen leaf (noise), while a straight dirt trail effectively crosses the park (generalization)."
 }
